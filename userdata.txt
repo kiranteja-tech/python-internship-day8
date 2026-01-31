@@ -1,0 +1,4 @@
+Name: Alice
+Role: Python Intern
+Company: ABC Tech
+Status: Active
